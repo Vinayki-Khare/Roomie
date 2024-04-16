@@ -1,0 +1,89 @@
+.first_part{
+   display: flex;
+   margin-top: 100px;
+}
+.photo1{
+    margin-left: 0%;
+    width: 198px;
+    height: 244px;
+ }
+ .mid{
+    margin-left: 8%;
+ }
+ #city{
+    text-align: center;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+ }
+ .bt{
+   width: 200px;
+   height: 45px;
+   text-align: center;
+   background-color: dodgerblue;
+   color: white;
+   font-size: 18px;
+   line-height: 25px;
+   border-radius: 4px;
+ }
+ .photo2{
+    margin-right: 0%;
+   
+ }
+ .first_second{
+   display: flex;
+}
+#id22{
+   text-align: center;
+   margin-left: 380px;
+   margin-right: 0%;
+   width: 370px;
+   height: 500px;
+}
+.photo3{
+   margin-left: 40px;
+   width: 280px;
+}
+.first_third{
+   display: flex;
+}
+#id31{
+   text-align: center;
+   width: 370px;
+   height: 500px;
+   margin-left: 50px;
+}
+.photo4{
+   margin-left: 40px;
+   width: 280px;
+}
+.first_fourth{
+   display: flex;
+}
+#id42{
+   text-align: center;
+   margin-left: 380px;
+   width: 370px;
+   height: 500px;
+}
+.photo5{
+   width: 280px;
+}
+#a {
+   float: left;
+   color: black;
+   text-align: center;
+   padding: 12px;
+   text-decoration: none;
+   font-size: 25px;
+   line-height: 25px;
+   border-radius: 4px;
+ }
+#a:hover {
+   background-color: #ddd;
+   color: black;
+ }
+#a.active {
+   background-color: dodgerblue;
+   color: white;
+ }
